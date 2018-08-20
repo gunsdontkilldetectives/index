@@ -1,5 +1,5 @@
 # index
-website from August 15th
+website from August 15th. I tried to email it a few times over the past five days and it kept returning to me, so here's the file.
 
 <DOCTYPE html>
 	<html>
